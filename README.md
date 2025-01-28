@@ -1,5 +1,4 @@
-<H1>UPDATED THE 2ND WEEK </H1>
-<h2>Crop and Fertilizer Recommendation System</h2>
+<h2>Crop and Fertilizer Recommendation System(Updated the 2nd week part)</h2>
 <h4>Project Description</h4>
 This project leverages machine learning to recommend the most suitable crops and fertilizers based on soil conditions, weather parameters, and other environmental factors. It aims to assist farmers in improving crop yield and optimizing resource usage by providing data-driven insights.
 
